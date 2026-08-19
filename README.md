@@ -9,4 +9,5 @@
 
 ## Документы
 
+- [product-description.md](product-description.md) — описание продукта для руководителей.
 - [product-docs/](product-docs/) — исследования и гипотеза продукта.
