@@ -10,4 +10,7 @@
 ## Документы
 
 - [product-description.md](product-description.md) — описание продукта для руководителей.
-- [product-docs/](product-docs/) — исследования и гипотеза продукта.
+- [product-docs/](product-docs/) — исследования и гипотеза продукта:
+  - [Гипотеза одного окна](product-docs/hypothesis-one-window.md)
+  - [Экономика: издержки LLM и что он даёт продукту](product-docs/economics.md)
+  - [Частота использования ИИ в поиске путешествий](product-docs/ai-usage-frequency.md)

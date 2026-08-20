@@ -19,3 +19,4 @@
 ## Подробнее
 
 - [Гипотеза продукта](product-docs/hypothesis-one-window.md).
+- [Экономика: издержки LLM и что он даёт продукту](product-docs/economics.md).
