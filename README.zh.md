@@ -1,6 +1,8 @@
 # BILL-TUTU-HACKATHON
 
 [RU](README.md) · [EN](README.en.md) · **中文** · [Español](README.es.md) · [Français](README.fr.md)
+[![VirusTotal](https://img.shields.io/badge/VirusTotal-0%2F75_clean-brightgreen)](https://www.virustotal.com/gui/file/db3e714a974e1c4f54d6503f495210d352f6c3845d2cbd7e4937c922a69dd098)
+
 
 由 BILL SOFT CREATIVE 团队提出的产品，团队代表为 Konstantin Ivanov（Product Manager）和 Rustam Baybulatov（Designer）。
 
